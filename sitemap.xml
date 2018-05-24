@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://plasma-team.github.io/blog/remote-code-execution/</loc>
+    <loc>https://plasma-team.github.io/blog/holla/</loc>
     <lastmod>2018-05-11T22:06:54+07:00</lastmod>
   </url>
   
@@ -39,7 +39,7 @@
   </url>
   
   <url>
-    <loc>https://plasma-team.github.io/tags/web-exploitation/</loc>
+    <loc>https://plasma-team.github.io/tags/web/</loc>
     <lastmod>2018-05-11T22:06:54+07:00</lastmod>
     <priority>0</priority>
   </url>
